@@ -40,6 +40,6 @@ def audio_extractor(input_path, output_folder = "files"):
 
 
 if __name__ == "__main__":
-    audio_path, video_path = audio_extractor('./files/source.mp4')
+    audio_path, video_path = audio_extractor('./files/test.mp4')
     print(f"Audio Saved : {audio_path}")
     print(f"Video Saved : {video_path}")

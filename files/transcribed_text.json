@@ -1,0 +1,258 @@
+{
+    "text": "As humans, we understand each other. Roger that. I feel ya. Aye-aye, Captain. Wait, what are we talking about? Well, most of the time. Even if we don't clearly hear a couple words, we can get the gist of it. Now, machines can understand us too. Our watches, cars, phones, drive-thrus can all process our words and respond just like a human. Sounds like some crazy magic, right? Well, it's not magic exactly, but it is pretty awesome. And the underlying awesome sauce that makes it all possible is speech recognition. What's that? The short answer? It's the software that allows us to convert audio into usable, structured data, typically in the form of a readable transcript. In other words, audio goes in, text comes out. Then you can use that text for all kinds of things, including a machine-to-human conversation. But how does it do that? How does a machine know what sounds are words? And how does it know the right words to write? Well, it's not unlike the human brain. As small children, we learn sounds. Then letters, then words, then phrases. And then more complex topics through conversation. The point is, speech recognition, like a child's brain, learns over time. Instead of feeding it experiences, we feed it data in the form of audio and transcripts that enable artificial intelligence to distinguish between things such as age, gender, accents, and even different languages. C'est magnifique. It can even learn other differences, like those are people versus that is background noise. And those are different people talking. Hi. Hi. And that person is happy. Oh, that's great. If they are sad. Oh, that's great. or mad. Oh, that's great. The more experiences speech recognition has, the better it is at understanding its surroundings. Just like a child. The faster it is at understanding, the more natural the conversation can be. So the next time you find yourself having a delightful voice experience, and you're not immediately sure whether it's a bot or a human, that's great speech recognition. DeepGram, speech recognition at the speed of life.",
+    "language": "en",
+    "segments": [
+        {
+            "start": 0.291,
+            "end": 1.893,
+            "speaker": "SPEAKER_00",
+            "text": "As humans, we understand each other."
+        },
+        {
+            "start": 2.273,
+            "end": 2.734,
+            "speaker": "SPEAKER_00",
+            "text": "Roger that."
+        },
+        {
+            "start": 3.174,
+            "end": 3.815,
+            "speaker": "SPEAKER_01",
+            "text": "I feel ya."
+        },
+        {
+            "start": 4.215,
+            "end": 5.016,
+            "speaker": "SPEAKER_01",
+            "text": "Aye-aye, Captain."
+        },
+        {
+            "start": 5.697,
+            "end": 6.918,
+            "speaker": "SPEAKER_01",
+            "text": "Wait, what are we talking about?"
+        },
+        {
+            "start": 7.419,
+            "end": 8.5,
+            "speaker": "SPEAKER_00",
+            "text": "Well, most of the time."
+        },
+        {
+            "start": 8.86,
+            "end": 11.984,
+            "speaker": "SPEAKER_00",
+            "text": "Even if we don't clearly hear a couple words, we can get the gist of it."
+        },
+        {
+            "start": 12.684,
+            "end": 14.607,
+            "speaker": "SPEAKER_00",
+            "text": "Now, machines can understand us too."
+        },
+        {
+            "start": 15.047,
+            "end": 21.033,
+            "speaker": "SPEAKER_00",
+            "text": "Our watches, cars, phones, drive-thrus can all process our words and respond just like a human."
+        },
+        {
+            "start": 21.734,
+            "end": 23.295,
+            "speaker": "SPEAKER_00",
+            "text": "Sounds like some crazy magic, right?"
+        },
+        {
+            "start": 23.796,
+            "end": 26.658,
+            "speaker": "SPEAKER_00",
+            "text": "Well, it's not magic exactly, but it is pretty awesome."
+        },
+        {
+            "start": 27.038,
+            "end": 31.262,
+            "speaker": "SPEAKER_00",
+            "text": "And the underlying awesome sauce that makes it all possible is speech recognition."
+        },
+        {
+            "start": 31.522,
+            "end": 32.003,
+            "speaker": "SPEAKER_01",
+            "text": "What's that?"
+        },
+        {
+            "start": 32.283,
+            "end": 32.983,
+            "speaker": "SPEAKER_00",
+            "text": "The short answer?"
+        },
+        {
+            "start": 33.244,
+            "end": 40.329,
+            "speaker": "SPEAKER_00",
+            "text": "It's the software that allows us to convert audio into usable, structured data, typically in the form of a readable transcript."
+        },
+        {
+            "start": 41.09,
+            "end": 43.953,
+            "speaker": "SPEAKER_00",
+            "text": "In other words, audio goes in, text comes out."
+        },
+        {
+            "start": 44.513,
+            "end": 49.939,
+            "speaker": "SPEAKER_00",
+            "text": "Then you can use that text for all kinds of things, including a machine-to-human conversation."
+        },
+        {
+            "start": 50.499,
+            "end": 51.36,
+            "speaker": "SPEAKER_00",
+            "text": "But how does it do that?"
+        },
+        {
+            "start": 51.74,
+            "end": 54.183,
+            "speaker": "SPEAKER_00",
+            "text": "How does a machine know what sounds are words?"
+        },
+        {
+            "start": 54.783,
+            "end": 56.925,
+            "speaker": "SPEAKER_00",
+            "text": "And how does it know the right words to write?"
+        },
+        {
+            "start": 57.686,
+            "end": 59.488,
+            "speaker": "SPEAKER_00",
+            "text": "Well, it's not unlike the human brain."
+        },
+        {
+            "start": 59.948,
+            "end": 61.67,
+            "speaker": "SPEAKER_00",
+            "text": "As small children, we learn sounds."
+        },
+        {
+            "start": 63.163,
+            "end": 66.706,
+            "speaker": "SPEAKER_00",
+            "text": "Then letters, then words, then phrases."
+        },
+        {
+            "start": 67.426,
+            "end": 70.589,
+            "speaker": "SPEAKER_00",
+            "text": "And then more complex topics through conversation."
+        },
+        {
+            "start": 70.889,
+            "end": 74.251,
+            "speaker": "SPEAKER_01",
+            "text": "The point is, speech recognition, like a child's brain, learns over time."
+        },
+        {
+            "start": 80.476,
+            "end": 92.883,
+            "speaker": "SPEAKER_00",
+            "text": "Instead of feeding it experiences, we feed it data in the form of audio and transcripts that enable artificial intelligence to distinguish between things such as age, gender, accents, and even different languages."
+        },
+        {
+            "start": 93.303,
+            "end": 94.244,
+            "speaker": "SPEAKER_00",
+            "text": "C'est magnifique."
+        },
+        {
+            "start": 94.764,
+            "end": 99.267,
+            "speaker": "SPEAKER_00",
+            "text": "It can even learn other differences, like those are people versus that is background noise."
+        },
+        {
+            "start": 99.727,
+            "end": 101.448,
+            "speaker": "SPEAKER_00",
+            "text": "And those are different people talking."
+        },
+        {
+            "start": 101.808,
+            "end": 102.109,
+            "speaker": "SPEAKER_00",
+            "text": "Hi."
+        },
+        {
+            "start": 102.569,
+            "end": 102.909,
+            "speaker": "SPEAKER_00",
+            "text": "Hi."
+        },
+        {
+            "start": 103.329,
+            "end": 104.55,
+            "speaker": "SPEAKER_00",
+            "text": "And that person is happy."
+        },
+        {
+            "start": 104.97,
+            "end": 106.071,
+            "speaker": "SPEAKER_00",
+            "text": "Oh, that's great."
+        },
+        {
+            "start": 106.651,
+            "end": 107.412,
+            "speaker": "SPEAKER_00",
+            "text": "If they are sad."
+        },
+        {
+            "start": 107.772,
+            "end": 109.653,
+            "speaker": "SPEAKER_00",
+            "text": "Oh, that's great."
+        },
+        {
+            "start": 110.412,
+            "end": 110.892,
+            "speaker": "SPEAKER_00",
+            "text": "or mad."
+        },
+        {
+            "start": 111.392,
+            "end": 112.313,
+            "speaker": "SPEAKER_00",
+            "text": "Oh, that's great."
+        },
+        {
+            "start": 112.913,
+            "end": 118.294,
+            "speaker": "SPEAKER_00",
+            "text": "The more experiences speech recognition has, the better it is at understanding its surroundings."
+        },
+        {
+            "start": 119.114,
+            "end": 119.934,
+            "speaker": "SPEAKER_00",
+            "text": "Just like a child."
+        },
+        {
+            "start": 120.715,
+            "end": 124.516,
+            "speaker": "SPEAKER_00",
+            "text": "The faster it is at understanding, the more natural the conversation can be."
+        },
+        {
+            "start": 125.376,
+            "end": 133.698,
+            "speaker": "SPEAKER_00",
+            "text": "So the next time you find yourself having a delightful voice experience, and you're not immediately sure whether it's a bot or a human, that's great speech recognition."
+        },
+        {
+            "start": 134.438,
+            "end": 137.339,
+            "speaker": "SPEAKER_00",
+            "text": "DeepGram, speech recognition at the speed of life."
+        }
+    ]
+}
