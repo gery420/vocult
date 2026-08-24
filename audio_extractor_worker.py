@@ -5,7 +5,7 @@ import os
 # it extracts the audio and video component from video
 # and saves it for later use for other workers
 
-def audio_extractor(input_path, output_folder = "files"):
+def audio_extractor(input_path, output_folder):
     # determine whether the file exists, if not throw an error
     if not os.path.isfile(input_path):
         raise FileNotFoundError("Input File Not Found")
@@ -36,10 +36,3 @@ def audio_extractor(input_path, output_folder = "files"):
         raise RuntimeError(f"Video Extraction Failed: {e.stderr.decode(errors='ignore')}")
 
     return audio_output, video_output
-
-
-
-if __name__ == "__main__":
-    audio_path, video_path = audio_extractor('./files/test.mp4')
-    print(f"Audio Saved : {audio_path}")
-    print(f"Video Saved : {video_path}")

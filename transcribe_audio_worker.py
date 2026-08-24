@@ -12,15 +12,17 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 def transcribe_audio(
     audio_path,
     hf_token=None,
-    device="cpu",
-    compute_type="int8",
-    model_size="large-v2",
-    batch_size=16,
+    device=None,
+    compute_type=None,
+    model_size=None,
+    batch_size=None,
     min_speaker=None,
     max_speaker=None,
 ):
     if not os.path.isfile(audio_path):
         raise FileNotFoundError
+
+    base_name = os.path.splitext(os.path.basename(audio_path))[0]
 
     audio = whisperx.load_audio(audio_path)
 
@@ -59,23 +61,12 @@ def transcribe_audio(
 
     full_text = " ".join(seg["text"] for seg in segments_out)
 
-    return {
+    result = {
         "text" : full_text,
-        "language" : detected_lang,
+        "language": detected_lang,
         "segments" : segments_out
     }
+    with open(f"./files/{base_name}_text.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=4, ensure_ascii=False)
 
-
-if __name__ == "__main__":
-    transcribed_text = transcribe_audio(
-        "./files/test_audio.mp3",
-        hf_token=HF_TOKEN,
-        device="cpu",
-        compute_type="int8",
-        model_size="large-v2",
-        batch_size=16,
-        min_speaker=2,
-        max_speaker=2,
-    )
-    with open("./files/transcribed_text.json", "w", encoding="utf-8") as f:
-        json.dump(transcribed_text, f, indent=4, ensure_ascii=False)
+    return result
