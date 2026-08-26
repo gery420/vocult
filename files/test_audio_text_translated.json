@@ -1,0 +1,305 @@
+{
+    "source_language": "eng_Latn",
+    "target_language": "hin_Deva",
+    "segments": [
+        {
+            "start": 0.291,
+            "end": 1.893,
+            "speaker": "SPEAKER_00",
+            "original_text": "As humans, we understand each other.",
+            "translated_text": "मनुष्य के रूप में, हम एक दूसरे को समझते हैं।"
+        },
+        {
+            "start": 2.273,
+            "end": 2.734,
+            "speaker": "SPEAKER_00",
+            "original_text": "Roger that.",
+            "translated_text": "समझ में आ गया."
+        },
+        {
+            "start": 3.174,
+            "end": 3.815,
+            "speaker": "SPEAKER_01",
+            "original_text": "I feel ya.",
+            "translated_text": "मैं तुम्हें महसूस करता हूँ."
+        },
+        {
+            "start": 4.215,
+            "end": 5.016,
+            "speaker": "SPEAKER_01",
+            "original_text": "Aye-aye, Captain.",
+            "translated_text": "हाँ-हाँ, कप्तान."
+        },
+        {
+            "start": 5.697,
+            "end": 6.918,
+            "speaker": "SPEAKER_01",
+            "original_text": "Wait, what are we talking about?",
+            "translated_text": "प्रतीक्षा, हम क्या बात कर रहे हैं?"
+        },
+        {
+            "start": 7.419,
+            "end": 8.5,
+            "speaker": "SPEAKER_00",
+            "original_text": "Well, most of the time.",
+            "translated_text": "खैर, ज्यादातर समय."
+        },
+        {
+            "start": 8.86,
+            "end": 11.984,
+            "speaker": "SPEAKER_00",
+            "original_text": "Even if we don't clearly hear a couple words, we can get the gist of it.",
+            "translated_text": "यहां तक कि अगर हम कुछ शब्दों को स्पष्ट रूप से नहीं सुनते हैं, तो हम इसका सार समझ सकते हैं।"
+        },
+        {
+            "start": 12.684,
+            "end": 14.607,
+            "speaker": "SPEAKER_00",
+            "original_text": "Now, machines can understand us too.",
+            "translated_text": "अब, मशीनें भी हमें समझ सकती हैं।"
+        },
+        {
+            "start": 15.047,
+            "end": 21.033,
+            "speaker": "SPEAKER_00",
+            "original_text": "Our watches, cars, phones, drive-thrus can all process our words and respond just like a human.",
+            "translated_text": "हमारी घड़ियाँ, कारें, फोन, ड्राइव-थ्रू सभी हमारे शब्दों को संसाधित कर सकते हैं और एक इंसान की तरह प्रतिक्रिया कर सकते हैं।"
+        },
+        {
+            "start": 21.734,
+            "end": 23.295,
+            "speaker": "SPEAKER_00",
+            "original_text": "Sounds like some crazy magic, right?",
+            "translated_text": "कुछ पागल जादू की तरह लगता है, है ना?"
+        },
+        {
+            "start": 23.796,
+            "end": 26.658,
+            "speaker": "SPEAKER_00",
+            "original_text": "Well, it's not magic exactly, but it is pretty awesome.",
+            "translated_text": "खैर, यह वास्तव में जादू नहीं है, लेकिन यह काफी भयानक है."
+        },
+        {
+            "start": 27.038,
+            "end": 31.262,
+            "speaker": "SPEAKER_00",
+            "original_text": "And the underlying awesome sauce that makes it all possible is speech recognition.",
+            "translated_text": "और मूल अद्भुत सॉस जो यह सब संभव बनाता है भाषण पहचान है।"
+        },
+        {
+            "start": 31.522,
+            "end": 32.003,
+            "speaker": "SPEAKER_01",
+            "original_text": "What's that?",
+            "translated_text": "यह क्या है?"
+        },
+        {
+            "start": 32.283,
+            "end": 32.983,
+            "speaker": "SPEAKER_00",
+            "original_text": "The short answer?",
+            "translated_text": "संक्षिप्त उत्तर?"
+        },
+        {
+            "start": 33.244,
+            "end": 40.329,
+            "speaker": "SPEAKER_00",
+            "original_text": "It's the software that allows us to convert audio into usable, structured data, typically in the form of a readable transcript.",
+            "translated_text": "यह सॉफ्टवेयर है जो हमें ऑडियो को उपयोग करने योग्य, संरचित डेटा में परिवर्तित करने की अनुमति देता है, आमतौर पर एक पठनीय प्रतिलेख के रूप में।"
+        },
+        {
+            "start": 41.09,
+            "end": 43.953,
+            "speaker": "SPEAKER_00",
+            "original_text": "In other words, audio goes in, text comes out.",
+            "translated_text": "दूसरे शब्दों में, ऑडियो अंदर आता है, पाठ बाहर आता है।"
+        },
+        {
+            "start": 44.513,
+            "end": 49.939,
+            "speaker": "SPEAKER_00",
+            "original_text": "Then you can use that text for all kinds of things, including a machine-to-human conversation.",
+            "translated_text": "फिर आप उस पाठ का उपयोग सभी प्रकार की चीजों के लिए कर सकते हैं, जिसमें मशीन-मानव बातचीत भी शामिल है।"
+        },
+        {
+            "start": 50.499,
+            "end": 51.36,
+            "speaker": "SPEAKER_00",
+            "original_text": "But how does it do that?",
+            "translated_text": "लेकिन यह ऐसा कैसे करता है?"
+        },
+        {
+            "start": 51.74,
+            "end": 54.183,
+            "speaker": "SPEAKER_00",
+            "original_text": "How does a machine know what sounds are words?",
+            "translated_text": "एक मशीन कैसे जानती है कि शब्द क्या हैं?"
+        },
+        {
+            "start": 54.783,
+            "end": 56.925,
+            "speaker": "SPEAKER_00",
+            "original_text": "And how does it know the right words to write?",
+            "translated_text": "और यह कैसे सही शब्दों को लिखने के लिए जानता है?"
+        },
+        {
+            "start": 57.686,
+            "end": 59.488,
+            "speaker": "SPEAKER_00",
+            "original_text": "Well, it's not unlike the human brain.",
+            "translated_text": "खैर, यह मानव मस्तिष्क से अलग नहीं है।"
+        },
+        {
+            "start": 59.948,
+            "end": 61.67,
+            "speaker": "SPEAKER_00",
+            "original_text": "As small children, we learn sounds.",
+            "translated_text": "छोटे बच्चों के रूप में, हम ध्वनि सीखते हैं।"
+        },
+        {
+            "start": 63.163,
+            "end": 66.706,
+            "speaker": "SPEAKER_00",
+            "original_text": "Then letters, then words, then phrases.",
+            "translated_text": "फिर अक्षर, फिर शब्द, फिर वाक्यांश।"
+        },
+        {
+            "start": 67.426,
+            "end": 70.589,
+            "speaker": "SPEAKER_00",
+            "original_text": "And then more complex topics through conversation.",
+            "translated_text": "और फिर बातचीत के माध्यम से अधिक जटिल विषय।"
+        },
+        {
+            "start": 70.889,
+            "end": 74.251,
+            "speaker": "SPEAKER_01",
+            "original_text": "The point is, speech recognition, like a child's brain, learns over time.",
+            "translated_text": "मुद्दा यह है कि भाषण पहचान, जैसे बच्चे का मस्तिष्क, समय के साथ सीखता है।"
+        },
+        {
+            "start": 80.476,
+            "end": 92.883,
+            "speaker": "SPEAKER_00",
+            "original_text": "Instead of feeding it experiences, we feed it data in the form of audio and transcripts that enable artificial intelligence to distinguish between things such as age, gender, accents, and even different languages.",
+            "translated_text": "इसके बजाय हम उसे अनुभव देते हैं, हम उसे ऑडियो और ट्रांसक्रिप्ट के रूप में डेटा देते हैं जो आर्टिफिशियल इंटेलिजेंस को उम्र, लिंग, उच्चारण और यहां तक कि विभिन्न भाषाओं जैसे चीजों के बीच अंतर करने में सक्षम बनाते हैं।"
+        },
+        {
+            "start": 93.303,
+            "end": 94.244,
+            "speaker": "SPEAKER_00",
+            "original_text": "C'est magnifique.",
+            "translated_text": "यह शानदार है."
+        },
+        {
+            "start": 94.764,
+            "end": 99.267,
+            "speaker": "SPEAKER_00",
+            "original_text": "It can even learn other differences, like those are people versus that is background noise.",
+            "translated_text": "यह अन्य अंतरों को भी सीख सकता है, जैसे कि लोग बनाम पृष्ठभूमि शोर।"
+        },
+        {
+            "start": 99.727,
+            "end": 101.448,
+            "speaker": "SPEAKER_00",
+            "original_text": "And those are different people talking.",
+            "translated_text": "और वे अलग-अलग लोग हैं जो बात कर रहे हैं।"
+        },
+        {
+            "start": 101.808,
+            "end": 102.109,
+            "speaker": "SPEAKER_00",
+            "original_text": "Hi.",
+            "translated_text": "हैलो."
+        },
+        {
+            "start": 102.569,
+            "end": 102.909,
+            "speaker": "SPEAKER_00",
+            "original_text": "Hi.",
+            "translated_text": "हैलो."
+        },
+        {
+            "start": 103.329,
+            "end": 104.55,
+            "speaker": "SPEAKER_00",
+            "original_text": "And that person is happy.",
+            "translated_text": "और वह व्यक्ति खुश है।"
+        },
+        {
+            "start": 104.97,
+            "end": 106.071,
+            "speaker": "SPEAKER_00",
+            "original_text": "Oh, that's great.",
+            "translated_text": "ओह, यह महान है."
+        },
+        {
+            "start": 106.651,
+            "end": 107.412,
+            "speaker": "SPEAKER_00",
+            "original_text": "If they are sad.",
+            "translated_text": "यदि वे दुखी हैं।"
+        },
+        {
+            "start": 107.772,
+            "end": 109.653,
+            "speaker": "SPEAKER_00",
+            "original_text": "Oh, that's great.",
+            "translated_text": "ओह, यह महान है."
+        },
+        {
+            "start": 110.412,
+            "end": 110.892,
+            "speaker": "SPEAKER_00",
+            "original_text": "or mad.",
+            "translated_text": "या पागल."
+        },
+        {
+            "start": 111.392,
+            "end": 112.313,
+            "speaker": "SPEAKER_00",
+            "original_text": "Oh, that's great.",
+            "translated_text": "ओह, यह महान है."
+        },
+        {
+            "start": 112.913,
+            "end": 118.294,
+            "speaker": "SPEAKER_00",
+            "original_text": "The more experiences speech recognition has, the better it is at understanding its surroundings.",
+            "translated_text": "भाषण पहचान का अनुभव जितना अधिक होगा, उसके आसपास के वातावरण को समझने में उतना ही बेहतर होगा।"
+        },
+        {
+            "start": 119.114,
+            "end": 119.934,
+            "speaker": "SPEAKER_00",
+            "original_text": "Just like a child.",
+            "translated_text": "एक बच्चे की तरह."
+        },
+        {
+            "start": 120.715,
+            "end": 124.516,
+            "speaker": "SPEAKER_00",
+            "original_text": "The faster it is at understanding, the more natural the conversation can be.",
+            "translated_text": "जितनी जल्दी यह समझ में आता है, उतनी ही स्वाभाविक बातचीत हो सकती है।"
+        },
+        {
+            "start": 125.376,
+            "end": 133.698,
+            "speaker": "SPEAKER_00",
+            "original_text": "So the next time you find yourself having a delightful voice experience, and you're not immediately sure whether it's a bot or a human, that's great speech recognition.",
+            "translated_text": "तो अगली बार जब आप खुद को एक सुखद आवाज का अनुभव करते हुए पाते हैं, और आप तुरंत सुनिश्चित नहीं होते कि यह एक बॉट है या एक इंसान, यह बहुत अच्छा भाषण पहचान है।"
+        },
+        {
+            "start": 134.438,
+            "end": 137.339,
+            "speaker": "SPEAKER_00",
+            "original_text": "DeepGram, speech recognition at the speed of life.",
+            "translated_text": "डीपग्राम, जीवन की गति से भाषण पहचान."
+        }
+    ],
+    "metadata": {
+        "original_file": "test_audio_text.json",
+        "model": "facebook/nllb-200-distilled-600M",
+        "num_segments": 42
+    }
+}
