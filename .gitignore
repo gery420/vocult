@@ -4,3 +4,12 @@
 .venv312/
 .env
 __pycache__/
+.env
+files/uploads/*
+files/outputs/*
+!files/uploads/.gitkeep
+!files/outputs/.gitkeep
+backend/__pycache__/
+workers/__pycache__/
+frontend/node_modules/
+frontend/dist/
